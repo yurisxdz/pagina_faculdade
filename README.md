@@ -1,2 +1,13 @@
-# pagina_faculdade
-Atividade avaliativa do 1º período de ADS: página da Faculdade Senac Pernambuco desenvolvida com HTML5 e CSS3, com cabeçalho fixo, seção de cursos em cards, contatos das unidades e layout responsivo (Flexbox e Grid).
+# Página Faculdade Senac Pernambuco
+
+Atividade avaliativa do 1º período de Análise e Desenvolvimento de Sistemas.
+
+## Sobre o projeto
+Página institucional com cabeçalho, banner, cursos e contatos das unidades, adaptada para desktop e celular.
+
+## Tecnologias
+- HTML5
+- CSS3 (Flexbox, Grid e media queries)
+
+## Autor
+Yuri Ribeiro
